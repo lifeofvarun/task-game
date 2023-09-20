@@ -1,0 +1,26 @@
+.box {
+    width: 100px;
+    height: 100px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  .win-message {
+    color: green;
+  }
+  
+  .lose-message {
+    color: red;
+  }
+    
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
